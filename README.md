@@ -28,8 +28,7 @@ Develop an automated test suite using Selenium WebDriver in Java, managed with M
      - Build and run the tests using Maven commands.
 
 5. **Submission**:
-   - Submit the project URL as a PRIVATE Git repository to prithvi@smartdino.tech and cc arun@smartdino.tech.
-   - **Give repo access to pankajyadav.code@gmail.com**
+   - Submit the project URL as a **PRIVATE** Git repository (also provide access) to prithvi@smartdino.tech and cc roshan@smartdino.tech, pankajyadav.code@gmail.com.
    - Ensure code quality and organization are in line with best practices.
 
 ## Bonus
